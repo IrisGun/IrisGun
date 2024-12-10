@@ -101,7 +101,6 @@ A part-time traveller and self-proclaimed photographer.
 
 ## Skills  
 - **Languages I speak:** English, Vietnamese, Korean, and most of the time Python, SQL, and a bit of Java (just mumbling), and R (also fumbling after a long time not using) as well.
--
 <!--
 ## Projects  
 - [List your personal projects or contributions to open-source projects]  
@@ -112,6 +111,13 @@ A part-time traveller and self-proclaimed photographer.
 - **IBM Data Science**  
 - **Google Data Analytics Specialization**  
 - **University of Michigan Python 3 Programming Specialization**  
+
+## Interests
+- Traditional Machine Learning
+- Deep Learning, Large Language Model, text processing
+- MLOps
+- Master Data Management
+- Web-based software development
 
 ## Let's Connect!  
 Feel free to reach out if you have any questions or want to collaborate on a project.  
