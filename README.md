@@ -20,6 +20,8 @@ A part-time traveller and self-proclaimed photographer.
   _Visiting student_
 - **Foreign Trade University - VN**  
   _Valedictorian of International Economics department_
+- **Hanoi University of Science - VN**  
+  _Pre-Master in Data Science_
 
 ## Skills  
 - **Languages I speak:** English, Vietnamese, Korean, and most of the time Python, SQL, and a bit of Java (just mumbling), and R (also fumbling after a long time not using) as well.
