@@ -4,7 +4,7 @@
 
 ## About Me  
 Hi, this is Trang (Jamie) Nguyen, a data enthusiast who loves diving into data and unearthing hidden insights — much like a gold digger, but not *that* kind of gold digger ~~  
-When I'm not wrangling data, you can find me experimenting with new Machine Learning algorithms or sipping a cup of tea while reading about the hypothesis of a planet inhabited by life forms based on iron and steel instead of organic matter, pretending to be a wise old man.
+When I'm not wrangling data, you can find me experimenting with new Machine Learning algorithms or pretending to be a wise old man, sipping a cup of tea while reading about the hypothesis of a planet inhabited by life forms based on metal instead of organic matter.
 A part-time traveler and self-proclaimed photographer.
 
 ## Experience  
