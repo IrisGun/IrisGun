@@ -46,7 +46,7 @@ A part-time traveler and self-proclaimed photographer.
 ## Let's Connect!  
 Feel free to reach out if you have any questions or want to collaborate on a project.  
 - **GitHub:** Here it is actually
-- **LinkedIn:** [Connect me on LinkedIn](https://www.linkedin.com/in/trang-nguyen-45374b102/)  
+- **LinkedIn:** [Connect me on LinkedIn](https://www.linkedin.com/in/trang-nguyen-jamie/)  
 - **Blog:** [Just random blog](https://rollingpotatoto.wixsite.com/aboutme)  
 
 ---
